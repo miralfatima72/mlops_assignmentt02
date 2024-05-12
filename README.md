@@ -59,8 +59,8 @@
 ## Setup Instructions
 1. Clone the repository and install dependencies:
     ```bash
-    git clone https://github.com/Fateemaaa/mlops_assignment02.git
-    cd mlops-assignment02
+    git clone https://github.com/miralfatima72/mlops_assignmentt02.git
+    cd mlops_assignmentt02
     pip install -r requirements.txt
     ```
 
