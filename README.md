@@ -1,6 +1,5 @@
 # mlops_assignment02
-
-# Data Preprocessing Documentation
+# i200844
 
 ## Data Extraction
 - Extracted articles from BBC and Dawn using BeautifulSoup and requests.
@@ -34,10 +33,8 @@
     dvc push
     ```
 
-workflow summary:
-# Workflow and Challenges
+# Workflow 
 
-## Workflow
 1. **Airflow DAG:** 
     - Implemented an ETL pipeline using Airflow to manage data extraction, transformation, and loading.
 
@@ -54,8 +51,6 @@ workflow summary:
   - Faced compatibility issues running Airflow on Windows.
   - Resolved by using WSL2 for a POSIX-compliant environment.
 
-
-how does it works:
 # MLOps Project: ETL with Airflow and DVC
 
 ## Overview
@@ -83,5 +78,4 @@ how does it works:
 ## Usage
 - Trigger the `mlops_etl_dag` manually via the Airflow UI or let it run based on its schedule.
 
-## Contact
-- For questions or contributions, contact i202658@nu.edu.pk
+
